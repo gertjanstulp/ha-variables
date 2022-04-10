@@ -1,8 +1,8 @@
 {
   "domain": "var",
-  "name": "Variable",
-  "version": "0.12.3",
-  "documentation": "https://github.com/gertjanstulp/home-assistant-variables/blob/master/README.md",
+  "name": "SM Variables",
+  "version": "0.12.4",
+  "documentation": "https://github.com/gertjanstulp/home-assistant-variables",
   "dependencies": ["recorder"],
   "codeowners": ["@gertjanstulp"],
   "requirements": [], 
